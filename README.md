@@ -9,5 +9,5 @@
 I'm a 16 year old mostly self taught programmer.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=lua,vscode,py,js" />
+  <img src="https://skillicons.dev/icons?i=vscode,lua,py,js" />
 </div
