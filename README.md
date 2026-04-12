@@ -7,3 +7,7 @@
 ## Hi im zephyra 👋
 
 I'm a 16 year old mostly self taught programmer.
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=lua,vscode,py,js" />
+</div>
