@@ -4,10 +4,20 @@
   </a>
 </div>
 
-## Hi im zephy 👋
+<h2 align="center">Hi, I'm Zephy 👋</h2>
 
-I'm a 16 year old mostly self taught programmer.
+<p align="center">
+  I'm a 16-year-old, mostly self-taught programmer.
+</p>
+
+<h3 align="center">Languages</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,lua,py,js,cs,figma,react" />
+  <img src="https://skillicons.dev/icons?i=lua,py,js,cs,react,nodejs" />
+</div>
+
+<h3 align="center">Software</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,robloxstudio" />
 </div>
