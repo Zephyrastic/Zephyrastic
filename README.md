@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=lua,py,js,cs,react,nodejs" />
 </div>
 
-<h3 align="center">Software</h3>
+<h3 align="center">Software Apps</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,figma,robloxstudio" />
