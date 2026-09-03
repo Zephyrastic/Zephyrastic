@@ -4,7 +4,7 @@
   </a>
 </div>
 
-## Hi im zephyra 👋
+## Hi im zephy 👋
 
 I'm a 16 year old mostly self taught programmer.
 
