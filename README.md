@@ -13,7 +13,7 @@
 <h3 align="center">Languages</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=lua,py,js,cs" />
+  <img src="https://skillicons.dev/icons?i=lua,py,js,ts,cs,css" />
 </div>
 
 <h3 align="center">Frameworks & Runtime</h3>
